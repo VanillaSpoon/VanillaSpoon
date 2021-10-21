@@ -1,16 +1,36 @@
-### Hi there 👋
+![VanillaSpoon](https://github.com/VanillaSpoon/VanillaSpoon/blob/main/Banner.jpegraw=true)
 
-<!--
-**VanillaSpoon/VanillaSpoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ciao  👋
+___
+My name is Eoin Gallinagh, I'm a Software Engineering student always looking for challenges to solve. I'm passionate about learning and love digging deep into obstacles.
 
-Here are some ideas to get you started:
+You can also find me on [LinkedIn][2].
+___
+### What I'm up to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Previously:**
+Software Engineering Internship at SafeAmigos.
+
+**Currently:**  Third Year Student BSc Computer Science and Software Engineering Student Maynooth University
+
+
+___
+### Technologies: 💬
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=Csharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/OS-Manjaro-informational?style=flat&logo=Manjaro&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MongoDB.js-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
+
+___
+Always open for questions, or help. Just react out and I'll do my best.
+
+
+
+[2]: https://www.linkedin.com/in/eoin-gallinagh-719240203
