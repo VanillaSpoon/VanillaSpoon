@@ -2,7 +2,6 @@
 
 ### Ciao  👋
 ___
-My name is Eoin Gallinagh, I'm a Software Engineering student and I'm always looking for challenges to solve. I'm passionate about learning, and love digging deep into obstacles.
 
 You can also find me on [LinkedIn][2].
 ___
@@ -29,7 +28,7 @@ ___
 ![](https://img.shields.io/badge/Tools-MongoDB.js-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 
 ___
-Always open for questions, and help. Just react out and I'll do my best.
+Always open for questions, and help. Just reach out and I'll do my best.
 
 
 
