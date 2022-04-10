@@ -6,11 +6,13 @@ ___
 You can also find me on [LinkedIn][2].
 ___
 ### What I'm up to:
+**Currently:** 
+Software Engineering Intern at Red Hat.
 
 **Previously:**
 Software Engineering Internship at SafeAmigos.
 
-**Currently:**  Third Year BSc Computer Science and Software Engineering Student at Maynooth University.
+
 
 
 ___
