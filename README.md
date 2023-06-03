@@ -5,32 +5,8 @@ ___
 
 You can also find me on [LinkedIn][2].
 ___
-### What I'm up to:
-**Currently:** 
-Software Engineering Intern at Red Hat.
 
-**Previously:**
-Software Engineering Internship at SafeAmigos.
-
-
-
-
-___
-### Technologies: 💬
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=Csharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=Mysql&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/OS-Manjaro-informational?style=flat&logo=Manjaro&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB.js-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
-
-___
-Always open for questions, and help. Just reach out and I'll do my best.
+Always open for questions, and assistance. Just reach out and I'll do my best.
 
 
 
